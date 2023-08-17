@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aarav-Singhal
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Kotlin , python , java
+-  I already Know Python
+- 🌱 I’m currently learning Kotlin , java
 - 📫 How to reach me - codcompanion704@gmail.com
 
 
